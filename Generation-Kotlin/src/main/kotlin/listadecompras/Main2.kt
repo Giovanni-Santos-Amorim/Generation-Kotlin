@@ -1,3 +1,5 @@
+import listadecompras.Cliente
+
 fun main() {
     while (true) {
 

@@ -1,3 +1,5 @@
+package listadecompras
+
 class Cliente(private var nome: String, private var endereço: String, private var telefone: String)
 {
     private val listProd = mutableListOf<String>()
