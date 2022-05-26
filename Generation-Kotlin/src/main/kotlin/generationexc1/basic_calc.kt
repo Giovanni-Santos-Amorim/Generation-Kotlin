@@ -1,6 +1,6 @@
 package generationexc1/*var n = 0.0
 
-fun main()
+fun Herança.main()
 {
     println("Digite:\n1 para adição\n2 subtração\n3 para multiplicação\n4 para divisão")
     var op = readln().toDouble()
